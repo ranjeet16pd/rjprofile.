@@ -1,0 +1,62 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0;
+    text-align: center;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.intro {
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+}
+
+.rjimage {
+    padding-top: 20px;
+    position: absolute;
+    left: 200px;
+}
+
+.profile {
+    position: relative;
+    left: -180px;
+    top: -50px;
+}
+
+.top {
+    background-color: rgb(205, 242, 202);
+    position: relative;
+    padding-top: 100px;
+}
+
+.mid {
+    background-color: #F9F3DF;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom {
+    background-color: #FACE7F;
+    position: relative;
+    /* padding-top: 100px; */
+}
+
+span {
+    color: rgb(204, 15, 141);
+    text-decoration: underline;
+}
+
+.table {
+    position: absolute;
+    left: 540px;
+}
+
+.skillls {
+    position: absolute;
+    left: 0px;
+}
+
+.skls {
+    position: absolute;
+    right: 0px;
+}
